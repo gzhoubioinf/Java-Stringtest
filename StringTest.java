@@ -1,10 +1,7 @@
 
 /**
  * A class devised to test some of the methods associated with strings.
- * 
- * @Simon Sharpe
- * @version (a version number or a date)
- */
+ 
 
 import java.util.*;
 public class StringTest
